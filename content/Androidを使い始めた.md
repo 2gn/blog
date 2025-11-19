@@ -38,6 +38,8 @@ https://github.com/kawaiiDango/pano-scrobbler
 <image src="https://github.com/kawaiiDango/pano-scrobbler/raw/main/composeApp/src/commonMain/composeResources/drawable/ic_launcher_with_bg.svg" style="width: 100px"></image>
 Last.fmにスマホで再生した曲を同期してくれる。
 
+[[Android + Linuxで最強のScrobbling環境を整える]]
+
 ## Breezy Weather
 
 https://github.com/breezy-weather/breezy-weather
@@ -70,3 +72,56 @@ https://github.com/KazumaProject/JapaneseKeyboard
 
 日本語キーボード。
 
+## AntennaPod
+
+https://github.com/AntennaPod/AntennaPod
+
+## Markor
+
+https://github.com/gsantner/markor
+
+## WiFi Analyzer
+
+https://github.com/gsantner/markor
+
+## Tubular
+
+https://github.com/polymorphicshade/Tubular
+
+## ANeko
+
+https://github.com/ente-io/ente
+
+## Geo Share
+
+https://github.com/jakubvalenta/geoshare
+
+## Ning
+
+https://github.com/csicar/Ning
+
+# 番外編: Androidにする前から使っていたアプリ
+
+## Organic Maps
+
+https://github.com/organicmaps/organicmaps
+
+## Immich
+
+https://github.com/immich-app/immich
+
+## Voyager (wefwef)
+
+https://github.com/aeharding/voyager
+
+## Wikipedia
+
+https://github.com/wikimedia/apps-android-wikipedia
+
+実はオープンソース
+
+クロスプラットフォームっていいよね。
+
+## Ente Auth
+
+https://github.com/ente-io/ente
