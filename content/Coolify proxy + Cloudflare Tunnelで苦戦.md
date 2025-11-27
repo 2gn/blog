@@ -2,7 +2,7 @@
 Coolifyを使って、Cloudflare Tunnel経由でご家庭サーバーを運用している。Coolifyのドキュメントはとても親切なので、[公式のガイド](https://coolify.io/docs/knowledge-base/cloudflare/tunnels/all-resource)を用意してくれている。ところが、このセットアップを完成させるのが結構大変だった。
 
 完成図はこんな感じ(公式サイトより)。
-![[Pasted image 20251019002713.png]]
+![[image-cloudflare.png]]
 
 # 
 
