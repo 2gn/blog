@@ -1,3 +1,23 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+code {
+  font-size: 0.9em;
+  color: var(--dark);
+  font-family: var(--codeFont);
+  border-radius: 5px;
+  padding: 0.1rem 0.2rem;
+  background: var(--light);
+}
+
+a:hover,a.active {
+  color: var(--light) !important;
+  background: var(--dark);
+}
+
+.text-highlight {
+  color: var(--light)
+}
+
+
